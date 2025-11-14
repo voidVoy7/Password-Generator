@@ -22,7 +22,7 @@ brew install libsodium
 
 📥 Cloning the Repository
 ```bash
-git clone https://github.com/voidvoy7/Password-Generator.git
+git clone https://github.com/voidVoy7/Password-Generator.git
 cd Password-Generator
 ```
 
